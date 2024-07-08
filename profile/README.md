@@ -3,7 +3,7 @@
 
 </br>
 <p align="center">
-  <img width="550" height="560" src="https://github.com/GnG-Software-Project/.github/blob/main/assets/logo_gng.jpg">
+  <img width="550" height="560" src="https://github.com/GnG-Software-Project/.github/blob/main/assets/logo_gng.png">
 </p>
 
 <br>
