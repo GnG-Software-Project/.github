@@ -1,47 +1,52 @@
-# [GnG Software Project](https://github.com/GnG-Software-Project)
+# GnG Software Project
+<br>
 
+</br>
 <p align="center">
-  <img width="550" height="200" src="https://github.com/DroneVator/.github/blob/main/assets/logo gng.jpg">
+  <img width="550" height="560" src="https://github.com/GnG-Software-Project/.github/blob/main/assets/logo gng.jpg">
 </p>
+
+<br>
+
+</br>
 
 ## Deskripsi Organisasi
 
-[Deskripsi singkat tentang organisasi Anda](https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/).
+### [GnG Software project](https://github.com/GnG-Software-Project) adalah perusahaan yang memberikan pelayan pembuatan software yang bergerak dibidang komputer. berdiri di Malang ini mengembangkan berbagai project aplikasi mobile ataupun desktop. untuk informasi lebih lanjut, bisa menghubungi di Whatsapp perusahaan
+> +628819884475.
 
 ## Tim dan Anggota
 
-* [Daftar tim dan anggota organisasi](https://www.bluecorona.com/blog/best-practices-site-organization/)
-* [Deskripsi peran dan tanggung jawab masing-masing anggota](https://www.appsmith.com/blog/write-a-great-readme)
-* [Informasi kontak anggota](https://www.jagoanhosting.com/blog/contoh-website-organisasi/)
+1. Project Manager
+   - Ganang Abdi Sugiharto
+     
+2. FrontEnd Developer
+   - Daffa Akmal Fahruddin
+   - Reza Wahyu Dagnantya
+   - Mochammad Raffli Maulana
+     
+3. BackEnd Developer
+   - Reza Wahyu Dagnantya
+     
+4. Designer
+   - Alviansyah Kusuma Pratama
+   - Daffa Akmal Fahruddin
+   
+* Informasi kontak anggota
+  
+  [![My Skills](https://skillicons.dev/icons?i=github&perline=3)](https://skillicons.dev)
+  
+  **Github**
+  
+  - [Daffa Akmal Fahruddin](https://github.com/DroneVator)
+  - [Mochammad Raffli Maulana](https://github.com/Ana2019-431)
+  - [Reza Wahyu Dagnantya](https://github.com/RwD31)
 
-## Proyek dan Inisiatif
+> [!WARNING]
+> HATI-HATI DALAM MENGGUNAKAN WEWENANG ANDA DI ORGANISASI GITHUB INI.
 
-* [Daftar proyek dan inisiatif yang sedang berjalan](https://github.com/topics/awesome-readme-template)
-* [Deskripsi singkat tentang setiap proyek atau inisiatif](https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/)
-* [Tautan ke repositori GitHub untuk setiap proyek](https://www.appsmith.com/blog/write-a-great-readme)
+> [!CAUTION]
+> SEGALA TINDAKAN YANG AKAN DILAKUKAN WAJIB ATAS PERIZINAN PROJECT MANAGER.
 
-## Cara Berkontribusi dan Terlibat
-
-* [Cara berkontribusi pada proyek dan inisiatif organisasi](https://github.com/topics/awesome-readme-template)
-* [Cara bergabung dengan komunitas organisasi](https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/)
-* [Cara mengikuti perkembangan terbaru organisasi](https://www.appsmith.com/blog/write-a-great-readme)
-
-## Pedoman Komunitas dan Kode Etik
-
-* [Pedoman untuk berinteraksi dengan anggota komunitas dengan hormat](https://github.com/topics/awesome-readme-template)
-* [Kode etik untuk perilaku yang diharapkan dalam komunitas](https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/)
-* [Proses untuk melaporkan pelanggaran pedoman komunitas atau kode etik](https://www.appsmith.com/blog/write-a-great-readme)
-
-## Informasi Lainnya
-
-* [FAQ (Frequently Asked Questions)](https://github.com/topics/awesome-readme-template)
-* [Daftar sumber daya yang relevan dengan organisasi](https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/)
-* [Tautan ke media sosial organisasi](https://www.appsmith.com/blog/write-a-great-readme)
-
-## Catatan
-
-* Repositori ini adalah sumber daya yang hidup dan akan terus diperbarui dengan informasi baru.
-* Anda dipersilakan untuk berkontribusi pada repositori ini dengan membuka masalah atau pull request.
-* Jika Anda memiliki pertanyaan atau umpan balik, silakan hubungi tim organisasi melalui alamat email yang tercantum di atas.
 
 ## Terima kasih telah mengunjungi profil GitHub Organization kami!
