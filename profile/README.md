@@ -22,11 +22,11 @@
      
 2. FrontEnd Developer
    - Daffa Akmal Fahruddin
-   - Reza Wahyu Dagnantya
+   - Reza Wahyu Daknantya
    - Mochammad Raffli Maulana
      
 3. BackEnd Developer
-   - Reza Wahyu Dagnantya
+   - Reza Wahyu Daknantya
      
 4. Designer
    - Alviansyah Kusuma Pratama
@@ -40,7 +40,7 @@
   
   - [Daffa Akmal Fahruddin](https://github.com/DroneVator)
   - [Mochammad Raffli Maulana](https://github.com/Ana2019-431)
-  - [Reza Wahyu Dagnantya](https://github.com/RwD31)
+  - [Reza Wahyu Daknantya](https://github.com/RwD31)
 
 > [!WARNING]
 > HATI-HATI DALAM MENGGUNAKAN WEWENANG ANDA DI ORGANISASI GITHUB INI.
