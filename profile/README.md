@@ -12,7 +12,8 @@
 
 ## Deskripsi Organisasi
 
-### [GnG Software project](https://github.com/GnG-Software-Project) adalah perusahaan yang memberikan pelayan pembuatan software yang bergerak dibidang komputer. berdiri di Malang ini mengembangkan berbagai project aplikasi mobile ataupun desktop. untuk informasi lebih lanjut, bisa menghubungi di Whatsapp perusahaan
+### [GnG Software Project](https://github.com/GnG-Software-Project) adalah perusahaan yang memberikan pelayanan pembuatan software aplication dan web service. 
+Berbasis di Kota Malang, Jawa Timur. untuk informasi lebih lanjut, bisa menghubungi di Whatsapp perusahaan:
 > +628819884475.
 
 ## Tim dan Anggota
